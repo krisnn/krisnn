@@ -2,7 +2,31 @@
 <!DOCTYPE html>
 <HTML b:css='false' b:js='false' id='style3'>
 &lt;head&gt;
-<meta charset='utf-8'/><meta content='width=device-width, initial-scale=1' name='viewport'/><meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/><link href='http://www.blogger.com/openid-server.g' rel='openid.server'/><link expr:href='data:blog.homepageUrl' rel='openid.delegate'/><link expr:href='data:blog.url' rel='canonical'/><meta content='blogger' name='generator'/><meta content='#444' name='theme-color'/><include expiration='7d' path='*.css'/><include expiration='7d' path='*.js'/><include expiration='7d' path='*.html'/><include expiration='3d' path='*.gif'/><include expiration='3d' path='*.jpeg'/><include expiration='3d' path='*.jpg'/><include expiration='3d' path='*.png'/><include expiration='3d' path='*.ico'/><meta content='pSFP4L5UpgP0c2o-ANvdUdn8AyupgOwipwuuup7e5Fs' name='google-site-verification'/><link crossorigin='' href='https://cdn.statically.io' rel='preconnect dns-prefetch'/><link crossorigin='' href='https://www.instagram.com' rel='preconnect dns-prefetch'/><link crossorigin='' href='https://blog.normankristiono.net' rel='preconnect dns-prefetch'/><link crossorigin='' href='https://www.blogger.com' rel='preconnect dns-prefetch'/><link crossorigin='' href='https://normankristiono-blogspot-com.disqus.com' rel='preconnect dns-prefetch'/><link crossorigin='' href='https://1.bp.blogspot.com' rel='preconnect dns-prefetch'/><link crossorigin='' href='https://2.bp.blogspot.com' rel='preconnect dns-prefetch'/><link crossorigin='' href='https://3.bp.blogspot.com' rel='preconnect dns-prefetch'/>
+<meta charset='utf-8'/>
+  <meta content='blogger' name='generator'/>
+  <meta content='width=device-width, initial-scale=1' name='viewport'/>
+  <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+  <link href='http://www.blogger.com/openid-server.g' rel='openid.server'/>
+  <link expr:href='data:blog.homepageUrl' rel='openid.delegate'/>
+  <link expr:href='data:blog.url' rel='canonical'/>
+  <meta content='#444' name='theme-color'/>
+  <include expiration='7d' path='*.css'/>
+  <include expiration='7d' path='*.js'/>
+  <include expiration='7d' path='*.html'/>
+  <include expiration='3d' path='*.gif'/>
+  <include expiration='3d' path='*.jpeg'/>
+  <include expiration='3d' path='*.jpg'/>
+  <include expiration='3d' path='*.png'/>
+  <include expiration='3d' path='*.ico'/>
+  <meta content='pSFP4L5UpgP0c2o-ANvdUdn8AyupgOwipwuuup7e5Fs' name='google-site-verification'/>
+  <link crossorigin='' href='https://cdn.statically.io' rel='preconnect dns-prefetch'/>
+  <link crossorigin='' href='https://www.instagram.com' rel='preconnect dns-prefetch'/>
+  <link crossorigin='' href='https://normankristiono.blogspot.com' rel='preconnect dns-prefetch'/>
+  <link crossorigin='' href='https://www.blogger.com' rel='preconnect dns-prefetch'/>
+  <link crossorigin='' href='https://normankristiono-blogspot-com.disqus.com' rel='preconnect dns-prefetch'/>
+  <link crossorigin='' href='https://1.bp.blogspot.com' rel='preconnect dns-prefetch'/>
+  <link crossorigin='' href='https://2.bp.blogspot.com' rel='preconnect dns-prefetch'/>
+  <link crossorigin='' href='https://3.bp.blogspot.com' rel='preconnect dns-prefetch'/>
 <link href='https://cdn.statically.io/favicons/blog.normankristiono.net?cache=31556952' rel='icon' type='image/x-icon'/>
 <!-- asd -->
 <b:if cond='data:blog.pageType == &quot;index&quot;'>
@@ -136,7 +160,7 @@ ul.dropdown-menu li{}
 <!-- END EFFECT -->
 .clearfix {clear: both;}.eupopup-container {background-color: rgba(25, 25, 25, 0.9);color: #efefef;padding: 5px 20px;font-size: 12px;line-height: 1.2em;text-align: center;display: none;z-index: 9999999;}.eupopup-container-top, .eupopup-container-fixedtop {position: absolute;top: 0; left: 0; right: 0;}.eupopup-container-fixedtop {position: fixed;}.eupopup-container-bottom {position: fixed;bottom: 0; left: 0; right: 0;}.eupopup-container-bottomleft {position: fixed;bottom: 10px;left: 10px;width: 300px;}.eupopup-container-bottomright {position: fixed;bottom: 10px;right: 10px;width: 300px;}.eupopup-closebutton {font-size: 16px;font-weight: 100;line-height: 1;color: #a2a2a2;filter: alpha(opacity=20);position: absolute;font-family: helvetica, arial, verdana, sans-serif;top: 0; right: 0;padding: 5px 10px;}.eupopup-closebutton:hover, .eupopup-closebutton:active {color: #fff;text-decoration: none;}.eupopup-head {font-size: 1.2em;font-weight: bold;padding: 7px;color: #fff;}.eupopup-body {color: #a2a2a2;}.eupopup-buttons {padding: 7px 0 5px 0;}.eupopup-button_1 {color: #f6a21d;font-weight: bold;font-size: 14px;}.eupopup-button_2 {color: #f6a21d;font-weight: normal;font-size: 12px;}.eupopup-button {margin: 0 10px;}.eupopup-button:hover, .eupopup-button:focus {text-decoration: underline;color: #f6a21d;}body .eupopup-color-inverse {color: #000;background-color: rgba(255, 255, 255, 0.9);}body .eupopup-color-inverse .eupopup-head {color: #000;}body .eupopup-style-compact {text-align: left;padding: 8px 30px 7px 20px;line-height: 15px;}body .eupopup-style-compact .eupopup-head, body .eupopup-style-compact .eupopup-body, body .eupopup-style-compact .eupopup-buttons {display: inline;padding: 0;margin: 0;}body .eupopup-style-compact .eupopup-button {margin: 0 5px;}</style>
 <b:if cond='data:blog.pageType == &quot;index&quot;'><style type='text/css'>#blog-pager{display:none;}</style></b:if>
-<b:if cond='data:blog.url == &quot;https://blog.normankristiono.net/p/sitemap.html&quot;'>
+<b:if cond='data:blog.url == &quot;https://normankristiono.blogspot.com/p/sitemap.html&quot;'>
 <style type='text/css'>.blog-pager{display:none}
 /*! BLOGGER TOC WITH ACCORDION EFFECT by Taufik Nurrohman */
 .table-of-content {border:2px solid #fafafa;font:normal normal 11px/normal Verdana,Geneva,&quot;DejaVu Sans&quot;,Tahoma,Arial,Sans-serif;color:#999;margin-bottom:5px;-webkit-box-shadow:0 1px 2px black;-moz-box-shadow:0 1px 2px black;box-shadow:0 1px 2px black;overflow:hidden} .table-of-content .toc-header {margin:0;padding:10px 15px;overflow:hidden;cursor:pointer;font:inherit;font-size:13px;color:#bbb;text-shadow:0 1px 1px rgba(0,0,0,.3);border-top:1px solid #444;border-bottom:1px solid #222;background-color:#333;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=&#39;#fff&#39;,endColorstr=&#39;#fb2212&#39;);background-image:-webkit-linear-gradient(#fff,#fb2212);background-image:-moz-linear-gradient(#fff,#fb2212);background-image:-ms-linear-gradient(#fff,#fb2212);background-image:-o-linear-gradient(#fff,#fb2212);background-image:linear-gradient(#fff,#fb2212);} .table-of-content .toc-header.active {color:#efefef;border-top:1px solid #24B6E3;border-bottom:1px solid #104968;background-color:#248AB0;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=&#39;#fff&#39;,endColorstr=&#39;#fb2212&#39;);background-image:-webkit-linear-gradient(#fff,#fb2212);background-image:-moz-linear-gradient(#fff,#fb2212);background-image:-ms-linear-gradient(#fff,#fb2212);background-image:-o-linear-gradient(#fff,#fb2212);background-image:linear-gradient(#fff,#fb2212);} .table-of-content .loading {display:block;padding:10px 15px;text-decoration:blink} .table-of-content ol {margin:0;padding:0;list-style:none} .table-of-content li {line-height:normal;margin:0;padding:5px 5px 5px 15px;white-space:nowrap;text-align:left;overflow:hidden;border-top:1px solid #444;border-bottom:1px solid #222} .table-of-content li:first-child {border-top:none} .table-of-content li:last-child {border-bottom:none} .table-of-content a {text-decoration:none;font-size:12px;border: unset} .table-of-content a:hover {text-decoration:underline} .table-of-content a:visited {color:#5687b8}</style>
@@ -320,7 +344,7 @@ table th, table tr td{padding: 7px;}
        <b:widget-settings>
          <b:widget-setting name='displayUrl'/>
          <b:widget-setting name='displayHeight'>0</b:widget-setting>
-         <b:widget-setting name='sectionWidth'>-1</b:widget-setting>
+         <b:widget-setting name='sectionWidth'>600</b:widget-setting>
          <b:widget-setting name='useImage'>false</b:widget-setting>
          <b:widget-setting name='shrinkToFit'>false</b:widget-setting>
          <b:widget-setting name='imagePlacement'>BEHIND</b:widget-setting>
@@ -407,9 +431,10 @@ table th, table tr td{padding: 7px;}
 
   <nav itemscope='itemscope' itemtype='http://schema.org/SiteNavigationElement' role='navigation'>
       <ul>
-        <li><a href='//normankristiono.net/' title='Home'>Home</a></li>
+        <li><a href='/' title='Home'>Home</a></li>
         <li><a expr:href='data:blog.homepageUrl + &quot;search/max-results=20&quot;' title='Blog'>Blog</a></li>
-        <li><a href='//normankristiono.net/about' title='About'>About</a></li>
+        <li><a expr:href='data:blog.homepageUrl + &quot;p/about-me.html&quot;' target='_blank' title='Resume'>About</a></li>
+        <li><a href='https://linkedin.com/in/nkristiono' target='_blank' title='Resume'>Resume</a></li>
       </ul>
     </nav>
 	 </header>
@@ -474,7 +499,7 @@ table th, table tr td{padding: 7px;}
            <b:widget-settings>
              <b:widget-setting name='sorting'>ALPHA</b:widget-setting>
              <b:widget-setting name='display'>CLOUD</b:widget-setting>
-             <b:widget-setting name='selectedLabelsList'>Etc</b:widget-setting>
+             <b:widget-setting name='selectedLabelsList'>Arcade,Automotive,Breakfast,Business,Financial,Games,Get Inspired,Hotels,Lunch,Politics,Related,Simulation,Stock,Strategy,Tech Tips,Travel,Trip Ideas,World</b:widget-setting>
              <b:widget-setting name='showType'>ALL</b:widget-setting>
              <b:widget-setting name='showFreqNumbers'>true</b:widget-setting>
            </b:widget-settings>
@@ -535,21 +560,22 @@ table th, table tr td{padding: 7px;}
         <b:widget id='Blog1' locked='true' title='Blog Posts' type='Blog' version='1'>
           <b:widget-settings>
             <b:widget-setting name='showDateHeader'>true</b:widget-setting>
-            <b:widget-setting name='style.textcolor'>#000000</b:widget-setting>
+            <b:widget-setting name='commentLabel'>Comments</b:widget-setting>
+            <b:widget-setting name='style.textcolor'>#ffffff</b:widget-setting>
             <b:widget-setting name='showShareButtons'>true</b:widget-setting>
             <b:widget-setting name='authorLabel'>By</b:widget-setting>
             <b:widget-setting name='showCommentLink'>true</b:widget-setting>
-            <b:widget-setting name='style.urlcolor'>#008000</b:widget-setting>
+            <b:widget-setting name='style.urlcolor'>#ffffff</b:widget-setting>
             <b:widget-setting name='showAuthor'>true</b:widget-setting>
-            <b:widget-setting name='disableGooglePlusShare'>true</b:widget-setting>
-            <b:widget-setting name='style.linkcolor'>#0000ff</b:widget-setting>
+            <b:widget-setting name='style.linkcolor'>#ffffff</b:widget-setting>
             <b:widget-setting name='style.unittype'>TextAndImage</b:widget-setting>
             <b:widget-setting name='style.bgcolor'>#ffffff</b:widget-setting>
+            <b:widget-setting name='timestampLabel'>-</b:widget-setting>
             <b:widget-setting name='reactionsLabel'/>
             <b:widget-setting name='showAuthorProfile'>false</b:widget-setting>
             <b:widget-setting name='style.layout'>1x1</b:widget-setting>
             <b:widget-setting name='showLabels'>true</b:widget-setting>
-            <b:widget-setting name='showLocation'>true</b:widget-setting>
+            <b:widget-setting name='showLocation'>false</b:widget-setting>
             <b:widget-setting name='showTimestamp'>true</b:widget-setting>
             <b:widget-setting name='postsPerAd'>1</b:widget-setting>
             <b:widget-setting name='showBacklinks'>false</b:widget-setting>
@@ -1060,13 +1086,14 @@ function initialize() {google.annotations.setApplicationId(<data:top.blogspotRev
           </b:loop>
        </b:if>
 </span>-->
-          <b:if cond='data:blog.pageType != &quot;static_page&quot;'>
+          <!--<b:if cond='data:blog.pageType != &quot;static_page&quot;'>
             <b:if cond='data:post.allowComments'>
 			  <span class='comment-info'>
               <a expr:href='data:post.url + &quot;#disqus_thread&quot;' title='Comments'/>
 			  </span>
             </b:if>
-          </b:if>
+          </b:if>-->
+  
   <span class='post-timestamp'>
                 <b:if cond='data:top.showTimestamp'>
                   <b:if cond='data:post.url'>
@@ -1467,31 +1494,6 @@ function initialize() {google.annotations.setApplicationId(<data:top.blogspotRev
   </div>
   <style type='text/css'>.image {width: 100%;}</style>
 </b:includable>
-        </b:widget>
-        <b:widget id='FollowByEmail1' locked='false' title='Follow by Email' type='FollowByEmail' version='1'>
-          <b:includable id='main'>
-    <div class='widget-content'>
-      <div class='follow-by-email-inner'>
-        <form action='https://feedburner.google.com/fb/a/mailverify' expr:onsubmit='&quot;window.open(\&quot;https://feedburner.google.com/fb/a/mailverify?uri=&quot; + data:feedPath + &quot;\&quot;, \&quot;popupwindow\&quot;, \&quot;scrollbars=yes,width=550,height=520\&quot;); return true&quot;' method='post' target='popupwindow'>
-          <table class='tabletd1 follow-by-email-form'>
-            <tr>
-              <td style='width: 22%'><b:if cond='data:title != &quot;&quot;'><h2 class='title-follow'><data:title/>:</h2></b:if></td>
-              <td>
-                <input class='follow-by-email-address' name='email' placeholder='Input your email here' type='text'/>
-              </td>
-              <td class='tabletd2'>
-                <input class='follow-by-email-submit red-follow-by-email-submit' type='submit' value='Submit'/>
-              </td>
-            </tr>
-          </table>
-          <input expr:value='data:feedPath' name='uri' type='hidden'/>
-          <input name='loc' type='hidden' value='en_US'/>
-        </form>
-      </div>
-    </div>
-    <span class='item-control blog-admin'>
-    </span>
-  </b:includable>
         </b:widget>
       </b:section>
     </div>
@@ -2402,7 +2404,7 @@ function downloadJSAtOnload(){var e=document.createElement("script");e.src="//cd
 //]]></script>
 <script rel='preload' type='text/javascript'>var disqus_shortname = &#39;normankristiono-blogspot-com&#39;; (function () {var s = document.createElement(&#39;script&#39;); s.async = true; s.type = &#39;text/javascript&#39;; s.src = &#39;//&#39; + disqus_shortname + &#39;.disqus.com/count.js&#39;; (document.getElementsByTagName(&#39;HEAD&#39;)[0] || document.getElementsByTagName(&#39;BODY&#39;)[0]).appendChild(s); }());</script>
 &lt;!--</body>--&gt;&lt;/body&gt;
-<b:if cond='data:blog.url == &quot;https://blog.normankristiono.net/p/sitemap.html&quot;'>
+<b:if cond='data:blog.url == &quot;https://normankristiono.blogspot.com/p/sitemap.html&quot;'>
 <script rel='preload' type='text/javascript'>
 /** TOC Sort by Label by Taufik Nurrohman */
 (function(w, d) {
